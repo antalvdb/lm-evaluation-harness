@@ -7,6 +7,7 @@ from . import (
     huggingface,
     ibm_watsonx_ai,
     mamba_lm,
+    mblm,
     nemo_lm,
     neuralmagic,
     neuron_optimum,
